@@ -1,11 +1,11 @@
 permalink
 LINKS/
-By {{ site.author }}
 
-[HOME]({{ site.baseurl }}/) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [LOG]({{ site.baseurl }}{{ site.myloglink }}) --- [GITHUB]({{ site.githublink }})
+By Rahma Adinda Putri
+
+[HOME](https://rahmaadnda.github.io/os222/) --- [LINKS](https://rahmaadnda.github.io/os222/LINKS/) --- [LOG](https://github.com/rahmaadnda/os222/blob/master/TXT/mylog.txt) --- [GITHUB](https://github.com/rahmaadnda)
 
 LINKS
 
 
 
-© {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
