@@ -1,7 +1,3 @@
-By {{site.author}}
+By Rahma Adinda Putri
 
-[By](site.author)
-
-[HOME]({{ site.baseurl }}/) --- [LINKS](site.baseurl/LINKS/) --- [LOG](site.baseurl/TXT/mylog.txt) --- [GITHUB](site.githublink)
-
-This is {{ site.title }} and I am {{ site.author }}.
+[HOME](https://rahmaadnda.github.io/os222/) --- [LINKS](https://github.com/rahmaadnda/os222/blob/master/links.md) --- [LOG](https://github.com/rahmaadnda/os222/blob/master/TXT/mylog.txt) --- [GITHUB](https://github.com/rahmaadnda)
