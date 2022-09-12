@@ -4,7 +4,7 @@
 <br><br>
 
 [HOME](https://rahmaadnda.github.io/os222/) --- 
-[LINKS](https://rahmaadnda.github.io/os222/links/) --- 
+[LINKS](https://rahmaadnda.github.io/os222/LINKS/) --- 
 [LOG](https://rahmaadnda.github.io/os222/TXT/mylog.txt) --- 
 [GITHUB](https://github.com/rahmaadnda)
 <br>
