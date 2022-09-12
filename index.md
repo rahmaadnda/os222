@@ -1,5 +1,12 @@
-By Rahma Adinda Putri
-
-[HOME](https://rahmaadnda.github.io/os222/) --- [LINKS](https://rahmaadnda.github.io/os222/links/) --- [LOG](https://github.com/rahmaadnda/os222/blob/master/TXT/mylog.txt) --- [GITHUB](https://github.com/rahmaadnda)
-
-This is OS222: Operating Systems 2022-2 and I am Rahma.
+---
+---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[GITHUB]({{ site.githublink }})
+<br>
+<hr>
+This is {{ site.title }} and I am {{ site.author }}.
+<br><br>
