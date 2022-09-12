@@ -1,12 +1,13 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Rahma Adinda Putri</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[GITHUB]({{ site.githublink }})
+
+[HOME](https://rahmaadnda.github.io/os222/) --- 
+[LINKS](https://rahmaadnda.github.io/os222/links/) --- 
+[LOG](https://rahmaadnda.github.io/os222/TXT/mylog.txt) --- 
+[GITHUB](https://github.com/rahmaadnda)
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+This is OS222: Operating Systems 2022-2 and I am Rahma.
 <br><br>
