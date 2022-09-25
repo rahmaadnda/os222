@@ -30,3 +30,10 @@ A short video that is pretty interesting. It explains some practical steps that 
 
 2. [2022 Cybersecurity roadmap: How to get started?](https://www.youtube.com/watch?v=mS7qWC3CbOU)<br>
 Not a very short video but it explains the beginning of learning Cybersecurity very well. The contents itself is quiet amusing.
+
+## Week 03
+1. [Linux Directory Structure - Hierarchy](https://eng.libretexts.org/Bookshelves/Computer_Science/Operating_Systems/Linux_-_The_Penguin_Marches_On_(McClanahan)/04%3A_Managing_Linux_Storage/5.12%3A_Linux_Directory_Structure/5.12.01%3A_Linux_Directory_Structure_-_Hierarchy)<br>
+This page explains the directories of Linux filesystem with a good visualization. There is also a short video that discusses the Filesystem Hierarchy Standard and what it means.
+
+2. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+A straightforward documentation of basic knowledge about Linux filesystem and FUSE.
