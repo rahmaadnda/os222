@@ -37,3 +37,10 @@ This page explains the directories of Linux filesystem with a good visualization
 
 2. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 A straightforward documentation of basic knowledge about Linux filesystem and FUSE.
+
+## Week 04
+1. [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c)<br>
+Demonstrates the concept of pointer in C language.
+
+2. [What is Virtual Memory? MMU, Page Tables, and more!](https://www.youtube.com/watch?v=4e18yybPo1E)<br>
+This video contains the highlight of virtual memory and explains it in 20 minutes with some documentations.
