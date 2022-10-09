@@ -3,8 +3,9 @@ permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By Rahma Adinda Putri</span>
 <br><br>
+
 [HOME](https://rahmaadnda.github.io/os222/) --- 
-[LINKS](https://rahmaadnda.github.io/os222/links/) --- 
+[LINKS](https://rahmaadnda.github.io/os222/LINKS/) --- 
 [LOG](https://rahmaadnda.github.io/os222/TXT/mylog.txt) --- 
 [GITHUB](https://github.com/rahmaadnda)
 <br>
@@ -44,3 +45,10 @@ Demonstrates the concept of pointer in C language.
 
 2. [What is Virtual Memory? MMU, Page Tables, and more!](https://www.youtube.com/watch?v=4e18yybPo1E)<br>
 This video contains the highlight of virtual memory and explains it in 20 minutes with some documentations.
+
+## Week 05
+1. [Linux make command](https://www.computerhope.com/unix/umake.htm)<br>
+This page explains various make commands in Linux with some examples.
+
+2. [Little endian and Big endian Concept with programming Examples](https://aticleworld.com/little-and-big-endian-importance/)<br>
+This page contains the concept of little and big endian and its implementation in C program. 
