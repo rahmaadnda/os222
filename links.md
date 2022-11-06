@@ -51,4 +51,11 @@ This video contains the highlight of virtual memory and explains it in 20 minute
 This page explains various make commands in Linux with some examples.
 
 2. [Little endian and Big endian Concept with programming Examples](https://aticleworld.com/little-and-big-endian-importance/)<br>
-This page contains the concept of little and big endian and its implementation in C program. 
+This page contains the concept of little and big endian and its implementation in C program.
+
+## Week 06
+1. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+This page contains documentation about concurrency's concept theory with some straightforward explanations.
+
+2. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) and [Process IDs in C](https://www.youtube.com/watch?v=PZrQ4eGm-hM) <br>
+These short videos demonstrate fork() system call process and how process IDs works.
