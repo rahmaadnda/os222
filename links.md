@@ -59,3 +59,10 @@ This page contains documentation about concurrency's concept theory with some st
 
 2. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) and [Process IDs in C](https://www.youtube.com/watch?v=PZrQ4eGm-hM) <br>
 These short videos demonstrate fork() system call process and how process IDs works.
+
+## Week 07
+1. [Semaphore Vs. Mutex](https://www.youtube.com/watch?v=8wcuLCvMmF8)<br>
+This video explains the difference of Semaphore and Mutex basic concepts.
+
+2. [Deadlock in Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ) <br>
+This video explains deadlock concepts in 15 minutes with good visualization.
