@@ -66,3 +66,10 @@ This video explains the difference of Semaphore and Mutex basic concepts.
 
 2. [Deadlock in Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ) <br>
 This video explains deadlock concepts in 15 minutes with good visualization.
+
+## Week 08
+1. [Linux From Scratch 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/) <br>
+Basically the main source to do linux from scratch
+
+2. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) <br>
+This playlist demonstrate every step on how to do linux from scratch from the first link.
